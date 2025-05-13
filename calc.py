@@ -10,3 +10,5 @@ def subtract(a, b):
     logging.info(f"Subtracting {a} - {b}")
     return a - b
 
+def multiply(a, b):
+    return a * b
